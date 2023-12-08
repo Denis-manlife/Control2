@@ -96,3 +96,61 @@ body{
 .figa{
     margin-left: 0;
 }
+
+@media screen and (min-width: 1024px) {
+    .feat h2{
+        font-size: 48px;
+    }
+    .p26{
+        font-size: 48px;
+    }
+    .gr77{
+        display: none;
+    }
+    .sigh{
+        display: flex;
+        align-items: center;
+    }
+    .navi{
+        display: flex;
+        align-items: center;
+        margin-right: 500px;
+    }
+    .navia{
+        margin-right: 15px;
+    }
+    .pic{
+        display: flex;
+        align-items: center;
+        text-align: left;
+        margin-left: 10%;
+    }
+    .p26{
+        margin-left: 0%;
+    }
+    .deckstop{
+        margin-left: 0%;
+    }
+    .Pricing{
+        max-width: 500px;
+        margin-left: 40%;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+        display: flex;
+        
+    }
+    .p20{
+        text-align: left;
+        margin-bottom: 0px;
+        margin-top: 30px;
+    }
+    .op{
+        text-align: left;
+        margin-right: 35%;
+        margin-top: 10px;
+    }
+    .aff{
+        max-width: 400px;
+    }
+}
