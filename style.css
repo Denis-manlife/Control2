@@ -1,0 +1,98 @@
+html{
+    max-height: 500px;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+body{
+    color: rgba(24, 33, 109, 1);
+    font-size: 14px;
+}
+.navig{
+    margin-right: 10px;
+}
+.gr77{
+    width: 150%;
+    height: 150%;
+}
+.feat h2{
+    font-size: 24px;
+}
+.sigh{
+    display: none;
+    margin-right: 10px;
+}
+.p20{
+    font-size: 20px;
+}
+.navi{
+    display: none;
+}
+.p26{
+    font-size: 26px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.feat{
+    text-align: center;
+}
+.op{
+    opacity: 60%;
+}
+.Pricing{
+    text-align: left;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.pic{
+    margin-top: 41px;
+    
+    text-align: center;
+}
+.pic1{
+    margin-bottom: 41px;
+}
+.deckstop{
+    margin-bottom: 33px;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.meet{
+    margin-left: 10px;
+    background-color: white;
+    border: white;
+}
+.spec{
+    margin-bottom: 5%;
+}
+.start{
+    border-radius: 6px;
+    background-color: rgba(0, 236, 208, 1);
+    margin-top: 33px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 17px;
+    padding-right: 17px;
+}
+.dow{
+    background-color: rgba(24, 33, 109, 1);
+    border: white;
+    color:white;
+    border-radius: 6px;
+    padding-left: 27px;
+    padding-right: 27px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    margin-right: 10px;
+}
+.sighn{
+    margin-right: 20px;
+    width: 57px;
+
+}
+.figa{
+    margin-left: 0;
+}
